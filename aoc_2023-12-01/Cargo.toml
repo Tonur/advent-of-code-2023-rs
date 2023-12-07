@@ -1,4 +1,4 @@
 [package]
-name = "advent-of-code-rs"
+name = "aoc_2023-12-01"
 version = "0.1.0"
 edition = "2021"
